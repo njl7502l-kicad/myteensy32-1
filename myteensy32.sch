@@ -440,8 +440,6 @@ Entry Wire Line
 	4850 5250 4950 5350
 Wire Wire Line
 	4850 5250 4650 5250
-Text Notes 4650 5250 0    50   ~ 0
-USB+
 Wire Wire Line
 	4650 5350 4850 5350
 Entry Wire Line
@@ -496,8 +494,6 @@ F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 3300 64
 	1    3150 6450
 	1    0    0    -1  
 $EndComp
-Text Notes 4650 5350 0    50   ~ 0
-USB-
 Wire Wire Line
 	3800 6450 3750 6450
 Connection ~ 3800 6450
@@ -512,10 +508,6 @@ Wire Wire Line
 Wire Wire Line
 	3800 6650 3750 6650
 Connection ~ 3800 6550
-Text Notes 3850 6550 0    50   ~ 0
-USB+
-Text Notes 3850 6450 0    50   ~ 0
-USB-
 $Comp
 L Device:R R?
 U 1 1 5F59572C
@@ -591,4 +583,12 @@ Wire Bus Line
 	9050 3050 9050 4650
 Wire Bus Line
 	4050 4250 4050 4650
+Text Label 4650 5250 0    50   ~ 0
+USB+
+Text Label 4650 5350 0    50   ~ 0
+USB-
+Text Label 3850 6450 0    50   ~ 0
+USB-
+Text Label 3850 6550 0    50   ~ 0
+USB+
 $EndSCHEMATC
