@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name mylib)(type Legacy)(uri /Users/gakushi/ghq/github.com/NJL7502L/myteensy32/kicad/symbols/symbols.lib)(options "")(descr ""))
+)
