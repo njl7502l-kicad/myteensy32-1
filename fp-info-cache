@@ -1,4 +1,4 @@
-67144200617541
+68742954878541
 mylib
 AMASS_XT30PW-F_Horizontal_HOSE
 Connector XT30 Horizontal PCB Female, https://www.tme.eu/en/Document/ce4077e36b79046da520ca73227e15de/XT30PW%20SPEC.pdf
@@ -62,6 +62,13 @@ CP Radial series Radial pin pitch 5.00mm  diameter 10mm Electrolytic Capacitor
 0
 2
 2
+mylib
+CSTCE16M0V53-R0
+
+
+0
+3
+3
 mylib
 Hole_3.2mm_NPTH
 
