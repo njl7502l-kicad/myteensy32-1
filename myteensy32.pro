@@ -1,4 +1,4 @@
-update=2020年08月30日 日曜日 17:37:38
+update=2020年08月30日 日曜日 20:38:11
 version=1
 last_client=kicad
 [general]
@@ -261,8 +261,8 @@ dPairViaGap=0.25
 Name=0.5
 Clearance=0.2
 TrackWidth=0.5
-ViaDiameter=1.5
-ViaDrill=0.9
+ViaDiameter=0.8
+ViaDrill=0.4
 uViaDiameter=0.3
 uViaDrill=0.1
 dPairWidth=0.2

@@ -706,7 +706,7 @@ Wire Wire Line
 Text Notes 5350 6000 0    50   ~ 0
 MF-FSMF035X-2 [AKIZUKI]
 Text Notes 6550 1350 0    50   ~ 0
-LT1117CST-3.3 [AKIZUKI]
+NJM2884U1 [AKIZUKI]
 Text Notes 6650 950  0    50   ~ 0
 BAT54CT [AKIZUKI]
 $Comp
